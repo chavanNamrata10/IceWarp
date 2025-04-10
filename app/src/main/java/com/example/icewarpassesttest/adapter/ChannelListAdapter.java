@@ -42,9 +42,6 @@ public class ChannelListAdapter extends RecyclerView.Adapter<RecyclerView.ViewHo
             ItemChannelNameBinding binding = ItemChannelNameBinding.inflate(LayoutInflater.from(parent.getContext()), parent, false);
             return new ChannelNameViewHolder(binding);
         }
-
-
-
     }
 
     @Override
