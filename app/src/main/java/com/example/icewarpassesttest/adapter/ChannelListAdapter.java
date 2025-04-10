@@ -43,6 +43,8 @@ public class ChannelListAdapter extends RecyclerView.Adapter<RecyclerView.ViewHo
             return new ChannelNameViewHolder(binding);
         }
 
+
+
     }
 
     @Override
